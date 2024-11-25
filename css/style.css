@@ -1,0 +1,223 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 1024px;
+    height: 1024px;
+    top: -5236px;
+    left: 999px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+/*layout header*/
+
+.header{
+    background: #1CD1B0;
+    width: 1024px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.titulo{
+    width: 1024px;
+    height: 101px;
+    top: 38px;
+    gap: 0px;
+    opacity: 0px;
+    background-color:#00669F;
+    border: 1px solid #000000;
+    box-shadow: 0px 10px 7px 0px #00000040;
+}
+
+.texto-titulo{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46.88px;
+    text-align: left;
+    color: white;
+    padding: 30px;
+    display: inline-block;
+}
+
+.cuerpo{
+    width: 960px;
+    height: 530px;
+    top: 292px;
+    left: 32px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.img-fondo-batman{
+    width: 300px;
+    height: 194px;
+    margin-top: 292px;
+    margin-left: 32px;
+    gap: 0px;
+    border-radius: 16px 16px 0px 0px;
+    opacity: 0px;
+    display: inline-block;
+}
+
+.img-batman{
+    width: 120px;
+    height: 120px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute; top: 550px; left: 122px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.Batman{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.16px;
+    display: block;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+
+
+.texto-batman{
+    width: 267px;
+    height: 113px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: left;
+    display:flex;
+    position: absolute; left: 48px; top: 730px;
+    color: #333333;
+}
+
+.img-fondo-hq{
+    width: 300px;
+    height: 194px;
+    margin-left: 362px;
+    gap: 0px;
+    border-radius: 16px 16px 0px 0px;
+    opacity: 0px;
+    display: inline-block;
+    position: absolute; top: 431px;
+}
+
+.img-hq{
+    width: 120px;
+    height: 120px;
+    gap: 0px;
+    opacity: 0px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 100%;
+    position: absolute; left: 30px; bottom: 45px;
+    display: inline-block;
+}
+
+.Harley-Queen{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.16px;
+    display: block;
+    margin-left: 427px;
+    position: relative; bottom: 36px;
+}
+
+.texto-HQ{
+    width: 267px;
+    height: 113px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: left;
+    display: block;
+    position: absolute; left: 48px; top: 730px;
+    color: #333333;
+    margin-left: 350px;
+}
+
+.img-fondo-superman{
+    width: 300px;
+    height: 194px;
+    top: 293px;
+    left: 692px;
+    gap: 0px;
+    border-radius: 16px 16px 0px 0px;
+    opacity: 0px;
+    display: inline-block;
+    position: absolute; top: 431px;
+}
+
+.img-superman{
+    width: 120px;
+    height: 120px;
+    gap: 0px;
+    opacity: 0px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 100%;
+    position: absolute; right: 8%; bottom: 40px;
+    display: inline-block;
+}
+
+.texto-superman{
+    width: 267px;
+    height: 113px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: left;
+    display: block;
+    position: absolute; left: 48px; top: 730px;
+    color: #333333;
+    margin-left: 680px;
+}
+
+.superman{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.16px;
+    margin-left: 774px;
+    position: relative; bottom: 72px;
+    display: inline-block;
+}
+
+.footer{
+    width: 1024px;
+    height: 51px;
+    top: 972px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #00669F;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    display: flex;
+    margin-top: 250px;
+}
+
+.texto-footer{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: center;
+    display: inline-block;
+    padding: 15px;
+    margin-left: 32px;
+    color: #FFF9F9;
+}
